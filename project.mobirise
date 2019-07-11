@@ -664,26 +664,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/jvkfctgdvcvmonpc9yr9xwegzjyzepwkmagmbzg3-370x370.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jvkfctgdvcvmonpc9yr9xwegzjyzepwkmagmbzg3-370x370-370x370.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "باوربانك لاسلكي",
-                "active": false
-              },
-              {
-                "tags": "قاعدة شاحن لاسلكي",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/hpjtfcggp8yqtpsdpntcvcsoreq6fekkqjjkg62o-370x370.png",
                 "thumb": "@PROJECT_PATH@/assets/images/hpjtfcggp8yqtpsdpntcvcsoreq6fekkqjjkg62o-370x370-370x370.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "قاعدة شاحن لاسلكي",
@@ -696,7 +683,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "قاعدة شاحن لاسلكي",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bpb-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bpb-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
