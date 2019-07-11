@@ -48,7 +48,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "العرض الثلاثي",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
