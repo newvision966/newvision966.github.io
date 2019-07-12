@@ -670,7 +670,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "قاعدة شاحن لاسلكية",
                 "active": true
               },
               {
@@ -683,7 +683,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "حامل وشاحن لاسلكي للسيارة",
                 "active": false
               },
               {
@@ -696,7 +696,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "باوربانك لاسلكي",
                 "active": false
               }
             ]
