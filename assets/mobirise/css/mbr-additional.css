@@ -1812,11 +1812,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #232323;
+  background: #ffffff;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #232323, #ffffff) !important;
+  background: linear-gradient(to left, #ffffff, #ffffff) !important;
 }
 .cid-rvTESiN7B5 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1842,11 +1842,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #232323 !important;
+  background: #ffffff !important;
   opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #232323, #ffffff) !important;
+  background: linear-gradient(to left, #ffffff, #ffffff) !important;
 }
 .cid-rvTESiN7B5 .mbr-gallery-item > div > span {
   color: #002736;
