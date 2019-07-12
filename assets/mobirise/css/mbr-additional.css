@@ -1879,7 +1879,7 @@ body {
 .cid-rvjWW3zv3x {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
   .cid-rvjWW3zv3x .mbr-figure {
@@ -1895,6 +1895,12 @@ body {
   .cid-rvjWW3zv3x .mbr-text {
     text-align: center;
   }
+}
+.cid-rvjWW3zv3x H1 {
+  color: #ff2f2f;
+}
+.cid-rvjWW3zv3x H3 {
+  color: #ff2f2f;
 }
 .cid-rvhMQmS7X1 {
   padding-top: 45px;
