@@ -671,7 +671,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "قاعدة شاحن لاسلكية",
+                "caption": "&nbsp;قاعدة شاحن لاسلكية للجوال",
                 "active": true
               },
               {
@@ -684,7 +684,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "حامل وشاحن لاسلكي للسيارة",
+                "caption": "حامل وشاحن لاسلكي للجوال في السيارة",
                 "active": false
               },
               {
@@ -697,7 +697,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-4",
-                "caption": "باوربانك لاسلكي",
+                "caption": "&nbsp;باوربانك لاسلكي للجوال",
                 "active": false
               }
             ]
