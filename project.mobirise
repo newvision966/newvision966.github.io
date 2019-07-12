@@ -640,7 +640,8 @@
               }
             },
             ".mbr-gallery-item > div > span": {
-              "color": "#002736"
+              "color": "#002736",
+              "text-align": "center"
             }
           },
           "_name": "gallery1",
