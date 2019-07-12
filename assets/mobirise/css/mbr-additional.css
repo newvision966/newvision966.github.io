@@ -1770,6 +1770,12 @@ body {
 .cid-rvZHNgmbyp .card-wrapper {
   height: 100%;
 }
+.cid-rvZHNgmbyp .card-title {
+  text-align: center;
+}
+.cid-rvZHNgmbyp P {
+  text-align: center;
+}
 .cid-rvhMd9rZxL {
   padding-top: 45px;
   padding-bottom: 60px;
