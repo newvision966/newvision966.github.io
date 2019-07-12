@@ -1852,7 +1852,7 @@ body {
   color: #002736;
 }
 .cid-rvhNtjYJL5 {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1922,7 +1922,7 @@ body {
   font-weight: 300;
 }
 .cid-rvhMd9rZxL .number-wrap {
-  color: #ffffff;
+  color: #ff2f2f;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1941,7 +1941,7 @@ body {
   font-size: 55px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ffffff;
+  color: #ff2f2f;
 }
 .cid-rvhMd9rZxL .period {
   display: block;
@@ -1963,10 +1963,10 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ffffff;
+  color: #ff2f2f;
 }
 .cid-rvhMd9rZxL .countdown-cont {
-  background: linear-gradient(45deg, #002736, #7f1933);
+  background: linear-gradient(45deg, #ffffff, #ffffff);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -2015,7 +2015,7 @@ body {
 .cid-rvjWW3zv3x {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #7f1933;
+  background-color: #073b4c;
 }
 @media (min-width: 992px) {
   .cid-rvjWW3zv3x .mbr-figure {
@@ -2059,7 +2059,7 @@ body {
 .cid-rvhNQvCjmN {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #073b4c;
+  background-color: #7f1933;
 }
 .cid-rvhNQvCjmN .row-links {
   width: 100%;
