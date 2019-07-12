@@ -640,8 +640,8 @@
               }
             },
             ".mbr-gallery-item > div > span": {
-              "color": "#002736",
-              "text-align": "center"
+              "color": "#073b4c",
+              "text-align": "right"
             }
           },
           "_name": "gallery1",
@@ -696,7 +696,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bpb-1-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
+                "customStyle1": "display-4",
                 "caption": "باوربانك لاسلكي",
                 "active": false
               }
