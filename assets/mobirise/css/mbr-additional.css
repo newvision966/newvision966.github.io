@@ -1822,7 +1822,7 @@ body {
   background: transparent !important;
 }
 .cid-rvTESiN7B5 .mbr-gallery-item > div:hover:before {
-  opacity: 0.8 !important;
+  opacity: 0 !important;
 }
 .cid-rvTESiN7B5 .mbr-gallery-title {
   font-size: .9em;
@@ -1843,7 +1843,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #ffffff !important;
-  opacity: 0.8;
+  opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #ffffff, #ffffff) !important;
